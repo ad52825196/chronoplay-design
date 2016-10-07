@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronoPlay Design.CSharp.Plugins", "ChronoPlay Design.CSharp.Plugins.csproj", "{44FE3632-15D0-0B58-D616-A2AA15F45A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronoPlay Design.CSharp", "ChronoPlay Design.CSharp.csproj", "{769BB040-C8C3-2654-F092-4731D76E432F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChronoPlay Design.CSharp.Editor", "ChronoPlay Design.CSharp.Editor.csproj", "{AEAB52A1-0DEC-C7F9-115D-E1FBA9142CB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FE3632-15D0-0B58-D616-A2AA15F45A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FE3632-15D0-0B58-D616-A2AA15F45A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FE3632-15D0-0B58-D616-A2AA15F45A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FE3632-15D0-0B58-D616-A2AA15F45A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769BB040-C8C3-2654-F092-4731D76E432F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769BB040-C8C3-2654-F092-4731D76E432F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769BB040-C8C3-2654-F092-4731D76E432F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769BB040-C8C3-2654-F092-4731D76E432F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAB52A1-0DEC-C7F9-115D-E1FBA9142CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAB52A1-0DEC-C7F9-115D-E1FBA9142CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAB52A1-0DEC-C7F9-115D-E1FBA9142CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAB52A1-0DEC-C7F9-115D-E1FBA9142CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
